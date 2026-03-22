@@ -94,29 +94,31 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ### 📊 Plan Wise Retention
 
-- Retention is high across all three plans in Month 2, with **Premium (91.5%–96.5%)**, **Standard (91.0%–97.0%)**, and **Basic (93.1%–95.9%)**, showing strong initial engagement regardless of plan.  
+- Retention is strong across all plans in Month 2, with **Premium (91.5–96.5%)**, **Standard (91.0–97.0%)**, and **Basic (93.1–95.9%)**, indicating consistent early engagement.
 
-- **March, June, and October** stand out as promo cohorts across all plans, consistently showing strong early retention.  
+- **March, June, and October (promo cohorts)** show strong early retention across all plans (e.g., March: **96.47% Premium, 94.54% Standard, 94.66% Basic**), highlighting effective acquisition.
 
-- **Standard and Premium do not show a consistent gap**, with performance varying across cohorts.  
+- **Standard and Premium show no consistent gap**, with performance varying by cohort (e.g., March Month 4: **85.88% vs 81.97%**, January Month 10: **64.37% vs 56.92%**).
 
-- **Basic users often perform similarly or even outperform higher tiers**, indicating plan type is not the primary driver of retention.  
+- **Basic users perform comparably and sometimes better**, such as February Month 3 (**91.26% vs 90.59% Standard and 85.16% Premium**).
 
-- Overall, **cohort timing matters more than plan type** for retention behavior.  
+- Overall, **retention differences across plans are minimal**, and **cohort timing (promo effect) plays a larger role than plan type**.
 
 ---
 
 ### 📊 Plan Wise LTV
 
-- Premium users generate the highest LTV, reaching **~$247 by Month 12**, compared to **~$175 for Standard** and **~$82 for Basic**.  
+- **Premium users consistently generate the highest LTV**, starting at **$30.0 in Month 0** and reaching **$247.3 by Month 11 (January cohort)**, significantly outperforming **Standard ($175.3)** and **Basic ($81.95)**.
 
-- Standard users sit between Premium and Basic, with similar retention but lower pricing driving lower LTV.  
+- **Standard users sit between Premium and Basic**, starting at **$20.0** and reaching **$175.3**, while showing retention patterns similar to Premium, indicating that **pricing—not engagement—is the primary driver of LTV differences**.
 
-- Basic users have the lowest LTV due to pricing limitations despite stable retention.  
+- **Basic users generate the lowest LTV**, starting at **$10.0** and reaching only **$81.95**, as lower pricing limits long-term value despite comparable retention levels.
 
-- The difference between Standard and Premium is significant (**~$72 gap by Month 12**), showing pricing drives value more than behavior.  
+- The gap between **Premium and Standard remains substantial (~$72 by Month 11)**, reinforcing that higher pricing tiers translate into significantly greater lifetime value even when user behavior is similar.
 
-- Promo cohorts start lower across all plans but **converge over time**, maintaining strong long-term value.  
+- **Promo cohorts (March, June, October)** start at lower LTV levels across all plans (e.g., Premium ~$24 vs $30, Standard ~$16 vs $20, Basic ~$8 vs $10), but **the gap narrows over time**, with all cohorts showing steady growth and convergence.
+
+- Overall, LTV patterns clearly indicate that **monetization differences are driven by pricing tiers rather than retention**, making plan strategy the key lever for long-term revenue growth.
 
 ---
 
@@ -124,49 +126,47 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ### Pricing & Plan Strategy
 
-- Premium users generate significantly higher lifetime value (**~$247 vs ~$175 vs ~$82**), making them the most valuable segment. Focus on increasing Premium adoption through feature differentiation and perceived value.  
+- Premium users generate significantly higher lifetime value **(e.g., ~$247 vs ~$175 for Standard and ~$82 for Basic)**, making them the most valuable segment. Focus on increasing **Premium adoption through feature differentiation and perceived value.**
 
-- Encourage upgrades from **Basic → Standard → Premium** through targeted nudges, feature unlocks, and in-app prompts.  
+- Since **retention across plans is similar**, encourage users to upgrade from **Basic → Standard → Premium** through **targeted nudges, feature unlocks, and in-app prompts.**
 
-- Enhance Premium offerings to justify pricing and improve conversion.  
+- Enhance Premium offerings **(exclusive content, advanced features)** to justify pricing and further increase conversion from lower tiers. 
 
 ---
 
 ### Promotional Strategy
 
-- Promo cohorts (**March, June, October**) show lower initial revenue but strong long-term value, indicating effective acquisition.  
+- **Promo cohorts (March, June, October)** show lower initial revenue but maintain strong retention and long-term value, indicating that promotions are effective for user acquisition.
 
-- Optimize discount levels (**$30 → ~$24 impact**) to balance acquisition and revenue.  
+- While **discounts reduce Month 1 revenue (~$30 → ~$24 for Premium)**, users still generate strong long-term LTV. **Test different discount levels to find the optimal balance between acquisition and revenue.**
 
-- Use promotions to drive **plan upgrades**, not just new users.  
+- Use promotions to encourage plan upgrades **(e.g., discounted first month for Premium)**, rather than only acquiring new users at lower tiers.
 
 ---
 
 ### Retention & Engagement
 
-- Maintain strong onboarding (**~93–97% Month 2 retention**).  
+- With over **~93–97% Month 2 retention across all plans**, the initial user experience is effective. Continue investing in onboarding to sustain this strength.
 
-- Improve mid-term retention (**Month 4–7**) with engagement strategies.  
+- Introduce engagement strategies such as **personalized content, reminders, and feature discovery** to reduce churn.
 
-- Replicate behaviors of long-term retained users (**~50–60% retention after 10+ months**).  
+ - Analyze behaviors of long-term retained users **(~50–60% after 10+ months)** and replicate these patterns across newer cohorts. 
 
 ---
 
 ### Monetization & Growth
 
-- Use **LTV as the primary decision metric** instead of short-term revenue.  
+- Plan type has **limited impact on retention but strong impact on LTV**, focus segmentation efforts on monetization rather than engagement.
 
-- Focus segmentation on **monetization rather than retention**.  
-
-- Invest in **high-value cohorts** instead of only acquisition volume.  
+- Allocate marketing and product efforts toward cohorts and user segments that show higher long-term value rather than focusing only on acquisition volume.
 
 ---
 
 ### Product Strategy
 
-- Improve feature differentiation across plans to increase willingness to pay.  
+- Since retention is similar across plans, improving feature differentiation can drive higher willingness to pay and increase LTV.
 
-- Explore **annual plans, bundles, and loyalty pricing**.  
+- Consider introducing **annual plans, bundled pricing, or loyalty discounts** to increase long-term commitment and upfront revenue.
 
 ---
 
