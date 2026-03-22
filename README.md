@@ -33,6 +33,8 @@ Retention remains consistent across Basic, Standard, and Premium plans, but LTV 
 
 ### 📊 Retention Cohort
 
+![retention](visuals/retention.jpeg)
+
 - User retention is consistently strong across all cohorts, with over **90% retained in Month 1**, indicating effective onboarding and immediate value delivery.  
 - Retention declines gradually to **~70% by Month 6** and stabilizes around **50–55% by Month 11**, reflecting a healthy churn pattern.  
 - Promo cohorts (March, June, October) show slightly higher early retention (~95%), indicating strong initial engagement.  
@@ -42,6 +44,8 @@ Retention remains consistent across Basic, Standard, and Premium plans, but LTV 
 ---
 
 ### 📊 Revenue Cohort
+
+![retention](visuals/revenue.jpeg)
 
 - Month 0 revenue varies across cohorts, with promo months (March, June, October) showing lower initial values.  
 - This drop is driven by pricing effects rather than user volume.  
@@ -53,6 +57,8 @@ Retention remains consistent across Basic, Standard, and Premium plans, but LTV 
 
 ### 📊 ARPU Cohort
 
+![retention](visuals/arpu.jpeg)
+
 - ARPU starts around **$17–17.3**, while promo cohorts begin lower at **~$13.5–13.8**.  
 - ARPU recovers quickly, reaching **~$16–16.5 by Month 1**.  
 - ARPU declines gradually to **~$8–10 by Month 9–11**.  
@@ -62,6 +68,8 @@ Retention remains consistent across Basic, Standard, and Premium plans, but LTV 
 ---
 
 ### 📊 LTV Cohort
+
+![retention](visuals/ltv.jpeg)
 
 - LTV grows steadily, with January cohort increasing from **~$17 to ~$143 by Month 11**.  
 - Promo cohorts start lower (~$13–14) but converge over time.  
