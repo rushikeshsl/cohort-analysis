@@ -1,7 +1,5 @@
 # 📊 Streamlytics Cohort Analysis
 
----
-
 ## 📌 Executive Summary
 
 Streamlytics’ cohort analysis of user activity from **January 2023 to December 2023** shows strong user engagement, with **93–97% retention in Month 2** and **~50–60% retained beyond 10 months**, supporting a stable subscription model. While promo cohorts (**March, June, October**) generate lower initial revenue and ARPU, they quickly converge and deliver comparable long-term LTV, indicating effective acquisition without compromising user quality.
