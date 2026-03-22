@@ -1,6 +1,6 @@
 # 📊 Streamlytics Cohort Analysis
 
---
+---
 
 ## 📌 Executive Summary
 
