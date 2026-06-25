@@ -1,6 +1,6 @@
-# 📊 Streamlytics Cohort Analysis
+# Streamlytics Cohort Analysis
 
-## 📌 Executive Summary
+## Executive Summary
 
 Streamlytics’ cohort analysis of user activity from **January 2023 to December 2023** shows strong user engagement, with **93–97% retention in Month 2** and **~50–60% retained beyond 10 months**, supporting a stable subscription model. While promo cohorts (**March, June, October**) generate lower initial revenue and ARPU, they quickly converge and deliver comparable long-term LTV, indicating effective acquisition without compromising user quality.
 
@@ -8,7 +8,7 @@ Retention remains consistent across **Basic, Standard, and Premium** plans, but 
 
 ---
 
-## 📘 Project Background
+## Project Background
 
 Streamlytics is a recently founded subscription-based startup that provides users with access to curated digital learning content and tools through tiered plans (**Basic, Standard, Premium**). The platform focuses on delivering value through structured content, continuous access, and a simple subscription experience.
 
@@ -16,7 +16,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Conduct cohort analysis for **retention** to understand user engagement and churn patterns  
 - Conduct cohort analysis for **revenue** to track cohort-wise revenue trends  
@@ -26,9 +26,9 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-## 🔍 Insights Deep-Dive
+## Insights Deep-Dive
 
-### 📊 Retention Cohort
+### Retention Cohort
 
 ![retention_chart](visuals/retention.jpeg)
 
@@ -44,7 +44,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-### 📊 Revenue Cohort
+### Revenue Cohort
 
 ![revenue_chart](visuals/revenue.jpeg)
 
@@ -60,7 +60,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-### 📊 ARPU Cohort
+### ARPU Cohort
 
 ![arpu_chart](visuals/arpu.jpeg)
 
@@ -76,7 +76,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-### 📊 LTV Cohort
+### LTV Cohort
 
 ![retention_chart](visuals/ltv.jpeg)
 
@@ -92,7 +92,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-### 📊 Plan Wise Retention
+### Plan Wise Retention
 
 - Retention is strong across all plans in Month 2, with **Premium (91.5–96.5%)**, **Standard (91.0–97.0%)**, and **Basic (93.1–95.9%)**, indicating consistent early engagement.
 
@@ -106,7 +106,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-### 📊 Plan Wise LTV
+### Plan Wise LTV
 
 - **Premium users consistently generate the highest LTV**, starting at **$30.0 in Month 0** and reaching **$247.3 by Month 11 (January cohort)**, significantly outperforming **Standard ($175.3)** and **Basic ($81.95)**.
 
@@ -122,7 +122,7 @@ I am collaborating with the product and business teams to analyze user behavior 
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 
 ### Pricing & Plan Strategy
 
