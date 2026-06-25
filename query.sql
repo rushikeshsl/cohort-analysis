@@ -9,7 +9,7 @@ SELECT
 	plan_type,
 	is_promo,
 	discount_percent
-FROM read_csv_auto("C:\Users\Rushikesh\Desktop\Projects\Product\cohort\data.csv")
+FROM read_csv_auto("data.csv")
 ;
 
 --------------------------------------------------------------------------------------------
